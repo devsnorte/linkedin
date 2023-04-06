@@ -13,3 +13,4 @@ Lista contendo o link para o Linkedin dos membros da nossa comunidade
 | Thiago Petherson | [Linkedin](https://www.linkedin.com/in/thiago-petherson-21b7b6193/) | [Github](https://github.com/thiagopetherson)    |
 | Eduardo Alexandre | [Linkedin](https://www.linkedin.com/in/eduardo-alexandre025/) | [Github](https://github.com/DuAlexandre) |
 | Hiago Paula | [Linkedin](https://www.linkedin.com/in/hiago-murilo/) | [Github](https://github.com/hiagomu) |
+| Anderson Coimbra | [Linkedin](https://www.linkedin.com/in/andersoncoimbra/) | [Github](https://github.com/andersoncoimbra)    |
