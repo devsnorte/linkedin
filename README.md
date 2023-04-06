@@ -16,3 +16,4 @@ Lista contendo o link para o Linkedin dos membros da nossa comunidade
 | Anderson Coimbra | [Linkedin](https://www.linkedin.com/in/andersoncoimbra/) | [Github](https://github.com/andersoncoimbra)    |
 | Victor Hugo M. Batista | [Linkedin](https://www.linkedin.com/in/victor-hugo99/) | [Github](https://github.com/torugo99) |
 | Welliton Araujo | [Linkedin](https://www.linkedin.com/in/wellitonaraujo/) | [Github](https://github.com/wellitonaraujo)    |
+| Carlos Vitor Silva | [Linkedin](https://www.linkedin.com/in/carloscardoso05/) | [Github](https://github.com/carloscardoso05)    |
