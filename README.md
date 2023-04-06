@@ -10,3 +10,4 @@ Lista contendo o link para o Linkedin dos membros da nossa comunidade
 | Jeferson Silva     | [Linkedin](https://www.linkedin.com/in/silvajeferson82/) | [Github](https://github.com/silvajeferson82)    |
 | Melquisedeque de Sousa     | [Linkedin](https://www.linkedin.com/in/melkdesousa/) | [Github](https://github.com/melkdesousa)    |
 | Tiago Danin | [Linkedin](https://www.linkedin.com/in/TiagoDanin/) | [Github](https://github.com/TiagoDanin)    |
+| Thiago Petherson | [Linkedin](https://www.linkedin.com/in/thiago-petherson-21b7b6193/) | [Github](https://github.com/thiagopetherson)    |
