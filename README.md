@@ -15,3 +15,4 @@ Lista contendo o link para o Linkedin dos membros da nossa comunidade
 | Hiago Paula | [Linkedin](https://www.linkedin.com/in/hiago-murilo/) | [Github](https://github.com/hiagomu) |
 | Anderson Coimbra | [Linkedin](https://www.linkedin.com/in/andersoncoimbra/) | [Github](https://github.com/andersoncoimbra)    |
 | Victor Hugo M. Batista | [Linkedin](https://www.linkedin.com/in/victor-hugo99/) | [Github](https://github.com/torugo99) |
+| Welliton Araujo | [Linkedin](https://www.linkedin.com/in/wellitonaraujo/) | [Github](https://github.com/wellitonaraujo)    |
