@@ -17,3 +17,4 @@ Lista contendo o link para o Linkedin dos membros da nossa comunidade
 | Victor Hugo M. Batista | [Linkedin](https://www.linkedin.com/in/victor-hugo99/) | [Github](https://github.com/torugo99) |
 | Welliton Araujo | [Linkedin](https://www.linkedin.com/in/wellitonaraujo/) | [Github](https://github.com/wellitonaraujo)    |
 | Rafael Soares | [Linkedin](https://www.linkedin.com/in/rafael-d-soares/) | [Github](https://github.com/sawarafael) |
+| Carlos Vitor Silva | [Linkedin](https://www.linkedin.com/in/carloscardoso05/) | [Github](https://github.com/carloscardoso05)    |
