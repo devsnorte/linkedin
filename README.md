@@ -19,3 +19,4 @@ Lista contendo o link para o Linkedin dos membros da nossa comunidade
 | Rafael Soares | [Linkedin](https://www.linkedin.com/in/rafael-d-soares/) | [Github](https://github.com/sawarafael) |
 | Carlos Vitor Silva | [Linkedin](https://www.linkedin.com/in/carloscardoso05/) | [Github](https://github.com/carloscardoso05)    |
 | Edson Costa | [Linkedin](https://www.linkedin.com/in/edsoncostadev/?originalSubdomain=br) | [Github](https://github.com/ecsistem)    |
+| Bianca Silva | [Linkedin](https://www.linkedin.com/in/biancassilva) | [Github](https://github.com/biancassilva) |
