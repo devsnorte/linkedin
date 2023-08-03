@@ -22,4 +22,5 @@ Lista contendo o link para o Linkedin dos membros da nossa comunidade
 | Bianca Silva           | [Linkedin](https://www.linkedin.com/in/biancassilva)                        | [Github](https://github.com/biancassilva)    |
 | Pedro Sousa            | [Linkedin](https://www.linkedin.com/in/sousapedro11/)                       | [Github](https://github.com/SousaPedro11)    |
 | Thayana Mamoré         | [Linkedin](https://www.linkedin.com/in/thayanacmamore/)                     | [Github](https://github.com/thauska)    |
+| Gustavo Ramos        | [Linkedin](https://www.linkedin.com/in/gustavo-ramos-374360213/)                | [Github](https://github.com/gustavoramos82)    |
 
